@@ -224,7 +224,7 @@ function addBox(){//adds a box randomly to an empty spot on the list
         }
     }               
     
-    var value = 2*Math.ceil(Math.random()*1.2); //random value of 2 or 4
+    var value = 2*Math.ceil(Math.random()*1.08); //random value of 2 or 4
     var random = emptyBoxes[Math.floor(Math.random()*emptyBoxes.length)];//chooses random box from empty box list
     boxes[random[0]][random[1]] = value;//adds box
     
