@@ -6,4 +6,4 @@ The goal of the game is to reach 2048.
 Touchscreen and keyboard controls.
 
 
-This code can be demonstrated at https://www.stoichallenge.com/resume/2048/main.html.
+This code can be demonstrated at https://jsfiddle.net/thegulex/x5ymztbe/2/
